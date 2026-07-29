@@ -1,0 +1,55 @@
+{
+  "name": "thunghiem",
+  "mode": "multi",
+  "filename_pattern": "{testname}_{date}.mp3",
+  "lines": [
+    {
+      "kind": "speech",
+      "id": "a38ad185",
+      "role": "A",
+      "voice_id": "en-IN-NeerjaNeural",
+      "text": "Hey Chloe, you heading down to the breakroom for a cup of coffee before the quarterly meeting?",
+      "pause_ms": 500
+    },
+    {
+      "kind": "speech",
+      "id": "a1af6f5b",
+      "role": "B",
+      "voice_id": "en-TZ-ImaniNeural",
+      "text": "Yeah, I’m dying for a quick cuppa! I’ve been stuck at my desk all morning dealing with heaps of urgent emails.",
+      "pause_ms": 500
+    },
+    {
+      "kind": "speech",
+      "id": "2b3c1c27",
+      "role": "A",
+      "voice_id": "en-IN-NeerjaNeural",
+      "text": "I hear ya. I’ve been on the phone with clients all day—had to run to the parking garage earlier to grab my portfolio from the trunk.",
+      "pause_ms": 500
+    },
+    {
+      "kind": "speech",
+      "id": "71954800",
+      "role": "B",
+      "voice_id": "en-TZ-ImaniNeural",
+      "text": "I parked in the car park too, but I took the lift up. Did you manage to grab some lunch from the cafeteria?",
+      "pause_ms": 500
+    },
+    {
+      "kind": "speech",
+      "id": "e12f301d",
+      "role": "A",
+      "voice_id": "en-IN-NeerjaNeural",
+      "text": "Not yet! I was hoping to grab a sandwich and a soda, but I gotta finish this data entry first.",
+      "pause_ms": 500
+    },
+    {
+      "kind": "speech",
+      "id": "497f192f",
+      "role": "B",
+      "voice_id": "en-TZ-ImaniNeural",
+      "text": "Fair enough! I brought a sarnie from home, but I need to hit the servo later for petrol and a fizzy drink.",
+      "pause_ms": 500
+    }
+  ]
+}
